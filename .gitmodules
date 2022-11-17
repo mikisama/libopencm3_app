@@ -1,0 +1,6 @@
+[submodule "libs/libopencm3"]
+	path = libs/libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
+[submodule "libs/libopencm3_cmake"]
+	path = libs/libopencm3_cmake
+	url = https://github.com/mikisama/libopencm3_cmake
