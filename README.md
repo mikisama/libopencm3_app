@@ -14,6 +14,7 @@ This is an Example of [LibOpenCM3 CMake](https://github.com/mikisama/libopencm3_
 1. Clone this repo
     ```bash
     git clone --recursive https://github.com/mikisama/libopencm3_app.git
+    cd libopencm3_app
     ```
 2. Setup CMake build directory
     ```bash
